@@ -1,3 +1,4 @@
+https://github.com/KosyanMedia/Front-end_TP_test
 # Тестовое задание - Frontend Developer (Travelpayouts)
 
 ### Цель
@@ -7,8 +8,6 @@
 ### Дано
 
 Макет респонсивной формы лежит в этом репозитории `TP_test.sketch`/`TP_test.pdf`/`TP_test.png`.
-
-![Layout preview](/maket_preview.png?raw=true "Layout preview")
 
 ### Задача
 
